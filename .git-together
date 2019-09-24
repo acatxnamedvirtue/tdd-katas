@@ -1,0 +1,5 @@
+[git-together]
+	domain = zgagnon.com
+[git-together "authors"]
+	zg = "Zoe Gagnon; zoe"
+	tb = "Tyler Beebe; tyler"
